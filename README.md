@@ -76,6 +76,7 @@ Será exibida uma mensagem informando que o programa não foi inserido, seguida 
 Para excluir um programa cadastrado basta clicar no botão "Excluir Programa" e inserir seu nome.
 
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/16botao_excluir_prog.png?raw=true)
+
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/17excluindo_prog.png?raw=true)
 
 Se tudo ocorrer bem, a seguinte mensagem será exibida:
@@ -125,9 +126,9 @@ Caso o processo seja bem sucedido, será exibida a mensagem:
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/27carregar_ok.png?raw=true)
 
 ## Observações:
-> Ao carregar um arquivo apenas os programas serão carregados, ou seja, a barra de status não será alterada;
+> Ao carregar um arquivo apenas os programas serão carregados, ou seja, a barra de status não será alterada.
 
-> Para adicionar mais programas, deve-se criar um laboratório com o espaço adicional, e a barra de status será referente ao espaço adicional, assim como os programas que serão inseridos, respeitarão apenas o novo valor de espaço inserido.
+> Para adicionar mais programas, deve-se criar um laboratório com o espaço adicional, e a barra de status será referente ao espaço adicional, assim como os programas que serão inseridos, que respeitarão apenas o novo valor de espaço.
 
 > O projeto foi desenvolvido utilizando o Windows como Sistema Operacional, por esse motivo as quebras de linha para salvamento dos arquivos .csv foram feitas com \r\n.
 
