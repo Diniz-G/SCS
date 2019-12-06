@@ -128,6 +128,8 @@ Caso o processo seja bem sucedido, será exibida a mensagem:
 
 > Para adicionar mais programas, deve-se criar um laboratório com o espaço adicional, e a barra de status será referente ao espaço adicional, assim como os programas que serão inseridos, respeitarão apenas o novo valor de espaço inserido.
 
+> O projeto foi desenvolvido utilizando o Windows como Sistema Operacional, por esse motivo as quebras de linha para salvamento dos arquivos .csv foram feitas com \r\n.
+
 
 
 ## Para dúvidas e sugestões
