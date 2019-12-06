@@ -73,7 +73,7 @@ Será exibida uma mensagem informando que o programa não foi inserido, seguida 
 
 ## Excluir Programas
 
-Para excluir um programa cadastrado basta clicar no botão "Excluir Programa" e inserir seu nome.
+Para excluir um programa cadastrado basta clicar no botão **Excluir Programa** e inserir seu nome.
 
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/16botao_excluir_prog.png?raw=true)
 
