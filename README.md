@@ -124,4 +124,4 @@ Caso o processo seja bem sucedido, será exibida a mensagem:
 
 ## Para dúvidas e sugestões
 
-### Email: diniz.academico@ifpb.edu.br
+### Email: diniz.gabriel@academico.ifpb.edu.br
