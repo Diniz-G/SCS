@@ -21,11 +21,10 @@ Primeiramente, deve-se definir o laboratório em questão inserindo seu nome, qu
 
 Para adicionar os programas basta preencher todos os campos com informações válidas e clicar no botão **Adicionar Programa**.
 
-
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/4add_prog1.png?raw=true)
 
-
 Se tudo ocorrer bem a seguinte mensagem será exibida:
+
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/5add_prog_ok.png?raw=true)
 
 ## Status da memória
