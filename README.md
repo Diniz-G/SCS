@@ -93,6 +93,8 @@ A barra de Status da memória será atualizada de acordo com as alterações fei
 
 ![enter image description here](https://github.com/Diniz-G/SCS/blob/master/imagens/21alterar_valor3.png?raw=true)
 
+Esse mesmo método pode ser utilizado para alterar qualquer outro parâmetro do programa na tabela.
+
 ## Salvando o arquivo
 
 Basta clicar na barra "Arquivo" e selecionar a opção "Salvar" ou pode-se utilizar o atalho CTRL+S :
